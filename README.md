@@ -1,15 +1,7 @@
 # Leaf Disease Classification using CNN
 This repository contains a deep learning project for classifying leaf diseases using a Convolutional Neural Network (CNN).
 
-# Table of Contents
-Introduction
-Dataset
-Model Architecture
-Dependencies
-Usage
-Results
-Future Work
-License
+
 # Introduction
 Leaf diseases can have a significant impact on crop yield and quality. This project aims to classify different types of leaf diseases using a CNN model. By leveraging deep learning techniques, this system can help in the early detection of plant diseases, assisting farmers and agricultural experts in taking timely preventive actions.
 
